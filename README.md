@@ -65,7 +65,16 @@ Currently seeking entry-level Data Analyst opportunities.
 
 ## 📸 Preview
 
-(Add screenshots later)
+![Home](1.png)
+![About](2.png)
+![Education](3.png)
+![Skills & Expertise](4.png)
+![Featured Projects](5.png)
+![Certifications](6.png)
+![Experience](7.png)
+![Get In Touch](8.png)
+
+
 
 ---
 
